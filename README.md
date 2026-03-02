@@ -6,7 +6,7 @@
 🔹 Project Overview
 This is a Canvas Power App developed using Microsoft Power Platform.
 The application allows users to:
-Register new employees
+Register new employees 
 View employee details
 Navigate between screens
 Store and manage employee data
